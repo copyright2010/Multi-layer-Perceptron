@@ -46,7 +46,7 @@ x = np.array([[0,0],
               [1,1]])
 
 # import Bow-tie data to test 2-layer network limitations
-#data = pd.read_csv('data.csv', header=None)
+#data = pd.read_csv('bow_tie_dataset.csv', header=None)
 
 # training data
 #x = np.array(data)
