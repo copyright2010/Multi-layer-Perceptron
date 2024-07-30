@@ -46,7 +46,7 @@ class NeuralNetwork:
         self.weights3 += d_weights3
         
 # import Bowtie data
-data = pd.read_csv('data.csv', header=None)
+data = pd.read_csv('bow_tie_dataset.csv', header=None)
 x = np.array(data)
 
 # targets 
